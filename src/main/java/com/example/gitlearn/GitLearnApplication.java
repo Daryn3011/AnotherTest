@@ -11,5 +11,5 @@ public class GitLearnApplication {
     }
 //sdasdas
     //ssdfsdfsfd
-    double s = 2.2;
+    double s = 2.24;
 }
